@@ -24,7 +24,7 @@ Before you can run this project locally, you must have Node.js and npm installed
 
 1. Clone this repository:
    ```
-   git clone https://github.com/sergiolopezsouto/summarizerai.git
+   git clone https://github.com/sergiolopezsouto/summarizerAI.git
    ```
 2. Navigate to the project directory:
    ```
