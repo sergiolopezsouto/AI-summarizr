@@ -28,7 +28,7 @@ Before you can run this project locally, you must have Node.js and npm installed
    ```
 2. Navigate to the project directory:
    ```
-   cd summarizerai
+   cd summarizerAI
    ```
 3. Install dependencies:
    ```
